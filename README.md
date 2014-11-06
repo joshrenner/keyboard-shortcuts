@@ -8,4 +8,4 @@ Repository of keyboard shortcuts for commands
 WebStorm
 --------
 
-<kbd><kbd>&#8984;</kbd> + <kbd>control</kbd> + <kbd>G</kbd></kbd> - Select all occurrences of current selection
+<kbd>&#8984;</kbd> + <kbd>control</kbd> + <kbd>G</kbd> - Select all occurrences of current selection
