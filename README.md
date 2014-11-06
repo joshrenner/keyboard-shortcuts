@@ -7,4 +7,4 @@ Repository of keyboard shortcuts for commands; [characters for special keys](htt
 WebStorm
 --------
 
-<kbd>&#8984;</kbd> + <kbd>control</kbd> + <kbd>G</kbd> &#x3000 Select all occurrences of current selection
+<kbd>&#8984;</kbd> + <kbd>control</kbd> + <kbd>G</kbd> &#x3000; Select all occurrences of current selection
