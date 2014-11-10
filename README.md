@@ -8,3 +8,4 @@ WebStorm
 --------
 
 <kbd>&#8984;</kbd> + <kbd>control</kbd> + <kbd>G</kbd> &#x3000; Select all occurrences of current selection
+<kbd>&#8984;</kbd> + <kbd>option</kbd> + <kbd>L</kbd> &#x3000; Reformat the page according to guidelines
