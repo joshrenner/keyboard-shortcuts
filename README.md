@@ -15,4 +15,6 @@ WebStorm
 Finder
 --------
 
-<kbd>&#8984;</kbd> + <kbd>shift</kbd> + <kbd>G</kbd> &#x3000; Go to location
+<kbd>&#8984;</kbd> + <kbd>⇧ Shift</kbd> + <kbd>G</kbd> &#x3000; Go to location
+<kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>3</kbd> &#x3000; Go to location
+<kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>4</kbd> &#x3000; Go to location
