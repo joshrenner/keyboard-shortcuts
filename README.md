@@ -20,3 +20,9 @@ Finder
 <kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>3</kbd> &#x3000; Screen shot
 
 <kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>4</kbd> &#x3000; Screen shot region
+
+
+Terminal
+--------
+
+<kbd>control</kbd> + <kbd>A</kbd> &#x3000; Go to begining of line
