@@ -21,6 +21,8 @@ Finder
 
 <kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>4</kbd> &#x3000; Screen shot region
 
+<kbd>⌘ Command</kbd> + <kbd>⇧ Shift</kbd> + <kbd>4</kbd>, then <kbd>spacebar</kbd>, then click on a window &#x3000; Screen shot of window
+
 
 Terminal
 --------
